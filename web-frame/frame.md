@@ -198,8 +198,12 @@ $(function () {
     };
 ```
 整个init做了两个事件：<br>
+
+<p class="tip">
 1.视图渲染，将前面编译生成的字符插入相应的位置；
 2.遍历含有data-on的DOM，根据data-on属性，利用正则将事件类型`eventType`，在前面定义的`methods`（就是new Render()里面定义的methods）中的属性method以及里面的参数`params`提取出来,可以看一下本demo提取的`eventType`,`methods`,`params`分别是什么<br>
+<p class="tip">
+
 ![](https://github.com/jackfxq/blog/raw/master/images/render-5.png)<br>
 最后用on对DOM进行事件绑定。
 ## 结语
