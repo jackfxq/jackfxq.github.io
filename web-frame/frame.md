@@ -4,9 +4,7 @@ index.html
 ```html
 <div class="main hide">
     <div>
-        {{ list.map(function(item,index){ }}
-            <div @click="click({{index}},{{item.tag}})">{{item.tag}}</div>
-        {{ }}) }}
+        <div @click="click({{index}},{{item.tag}})">{{item.tag}}</div>
     </div>
 </div>
 
