@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc408751-585e-4a2f-a7b4-ea1bc0e523ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-pattern/observe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-source/array.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-source/data.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-source/frame.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-frame/component.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-frame/frame.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/js.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing.html" afterPath="$PROJECT_DIR$/landing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-frame/frame.md" afterPath="$PROJECT_DIR$/web-frame/frame.md" />
     </list>
     <ignored path="vue-blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,51 +158,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frame.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="frame.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-frame/frame.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="207" column="290" lean-forward="false" selection-start-line="207" selection-start-column="290" selection-end-line="207" selection-end-column="290" />
+              <first_editor relative-caret-position="200">
+                <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
                 <folding>
-                  <marker date="1505979202000" expanded="true" signature="703:1080" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="720:1076" ph="{&quot;el&quot;: '.main'...}" />
-                  <marker date="1505979202000" expanded="true" signature="757:936" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="797:926" ph="[...]" />
-                  <marker date="1505979202000" expanded="true" signature="798:839" ph="{&quot;tag&quot;: 'aa'...}" />
-                  <marker date="1505979202000" expanded="true" signature="841:882" ph="{&quot;tag&quot;: 'bb'...}" />
-                  <marker date="1505979202000" expanded="true" signature="884:925" ph="{&quot;tag&quot;: 'cc'...}" />
-                  <marker date="1505979202000" expanded="true" signature="955:1070" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="1001:1060" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="1476:1564" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="1569:1591" ph="/** 初始化 ...*/" />
-                  <marker date="1505979202000" expanded="true" signature="1633:2429" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="1824:2422" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="2258:2367" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="2435:2556" ph="/** 模板渲染 ...*/" />
-                  <marker date="1505979202000" expanded="true" signature="2609:3775" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="2640:2692" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="2963:3265" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="3004:3084" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="3118:3171" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="3177:3255" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="3333:3485" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="3377:3475" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="3781:3875" ph="/** 生成渲染单元数组 ...*/" />
-                  <marker date="1505979202000" expanded="true" signature="3904:5000" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="4020:4955" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="4185:4308" ph="{&quot;type&quot;: 'text'...}" />
-                  <marker date="1505979202000" expanded="true" signature="4397:4945" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="4533:4709" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="4578:4689" ph="{&quot;type&quot;: 'logic'...}" />
-                  <marker date="1505979202000" expanded="true" signature="4715:4861" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="4746:4841" ph="{&quot;expr&quot;: value...}" />
-                  <marker date="1505979202000" expanded="true" signature="5006:5087" ph="/** 反转义 ...*/" />
-                  <marker date="1505979202000" expanded="true" signature="5118:5256" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="6298:6320" ph="/** 初始化 ...*/" />
-                  <marker date="1505979202000" expanded="true" signature="6362:7158" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="6553:7151" ph="{...}" />
-                  <marker date="1505979202000" expanded="true" signature="6987:7096" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="313:479" ph="..." />
+                  <marker date="1505980392000" expanded="true" signature="323:472" ph="..." />
+                  <marker date="1505980392000" expanded="true" signature="698:1075" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="715:1071" ph="{&quot;el&quot;: '.main'...}" />
+                  <marker date="1505980392000" expanded="true" signature="752:931" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="792:921" ph="[...]" />
+                  <marker date="1505980392000" expanded="true" signature="793:834" ph="{&quot;tag&quot;: 'aa'...}" />
+                  <marker date="1505980392000" expanded="true" signature="836:877" ph="{&quot;tag&quot;: 'bb'...}" />
+                  <marker date="1505980392000" expanded="true" signature="879:920" ph="{&quot;tag&quot;: 'cc'...}" />
+                  <marker date="1505980392000" expanded="true" signature="950:1065" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="996:1055" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="1471:1559" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="1564:1586" ph="/** 初始化 ...*/" />
+                  <marker date="1505980392000" expanded="true" signature="1628:2424" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="1819:2417" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="2253:2362" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="2430:2551" ph="/** 模板渲染 ...*/" />
+                  <marker date="1505980392000" expanded="true" signature="2604:3770" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="2635:2687" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="2958:3260" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="2999:3079" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="3113:3166" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="3172:3250" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="3328:3480" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="3372:3470" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="3776:3870" ph="/** 生成渲染单元数组 ...*/" />
+                  <marker date="1505980392000" expanded="true" signature="3899:4995" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="4015:4950" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="4180:4303" ph="{&quot;type&quot;: 'text'...}" />
+                  <marker date="1505980392000" expanded="true" signature="4392:4940" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="4528:4704" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="4573:4684" ph="{&quot;type&quot;: 'logic'...}" />
+                  <marker date="1505980392000" expanded="true" signature="4710:4856" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="4741:4836" ph="{&quot;expr&quot;: value...}" />
+                  <marker date="1505980392000" expanded="true" signature="5001:5082" ph="/** 反转义 ...*/" />
+                  <marker date="1505980392000" expanded="true" signature="5113:5251" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="6293:6315" ph="/** 初始化 ...*/" />
+                  <marker date="1505980392000" expanded="true" signature="6357:7153" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="6548:7146" ph="{...}" />
+                  <marker date="1505980392000" expanded="true" signature="6982:7091" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -305,7 +296,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landing.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="landing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landing.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -336,12 +327,12 @@
         <option value="$PROJECT_DIR$/vue-source/data.md" />
         <option value="$PROJECT_DIR$/vue-source/frame.md" />
         <option value="$PROJECT_DIR$/vue-source/array.md" />
-        <option value="$PROJECT_DIR$/web-frame/frame.md" />
         <option value="$PROJECT_DIR$/web-frame/component.md" />
         <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/webpack/js.md" />
         <option value="$PROJECT_DIR$/webpack/observe.md" />
         <option value="$PROJECT_DIR$/landing.html" />
+        <option value="$PROJECT_DIR$/web-frame/frame.md" />
       </list>
     </option>
   </component>
@@ -587,11 +578,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5130000" />
+    <option name="totallyTimeSpent" value="5190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1587" y="52" width="1759" height="950" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19452533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -601,7 +591,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25890738" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25890738" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -643,13 +633,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/js/app.975a2e359223eca34a2f.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.975a2e359223eca34a2f.js" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -867,50 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-frame/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-source/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-frame/README.md" />
+    <entry file="file://$PROJECT_DIR$/design-pattern/README.md" />
+    <entry file="file://$PROJECT_DIR$/vue-source/README.md" />
+    <entry file="file://$PROJECT_DIR$/webpack/README.md" />
     <entry file="file://$PROJECT_DIR$/vue-source/data.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -968,47 +912,49 @@
     <entry file="file://$PROJECT_DIR$/web-frame/frame.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="207" column="290" lean-forward="false" selection-start-line="207" selection-start-column="290" selection-end-line="207" selection-end-column="290" />
+          <first_editor relative-caret-position="200">
+            <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             <folding>
-              <marker date="1505979202000" expanded="true" signature="703:1080" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="720:1076" ph="{&quot;el&quot;: '.main'...}" />
-              <marker date="1505979202000" expanded="true" signature="757:936" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="797:926" ph="[...]" />
-              <marker date="1505979202000" expanded="true" signature="798:839" ph="{&quot;tag&quot;: 'aa'...}" />
-              <marker date="1505979202000" expanded="true" signature="841:882" ph="{&quot;tag&quot;: 'bb'...}" />
-              <marker date="1505979202000" expanded="true" signature="884:925" ph="{&quot;tag&quot;: 'cc'...}" />
-              <marker date="1505979202000" expanded="true" signature="955:1070" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="1001:1060" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="1476:1564" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="1569:1591" ph="/** 初始化 ...*/" />
-              <marker date="1505979202000" expanded="true" signature="1633:2429" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="1824:2422" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="2258:2367" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="2435:2556" ph="/** 模板渲染 ...*/" />
-              <marker date="1505979202000" expanded="true" signature="2609:3775" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="2640:2692" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="2963:3265" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="3004:3084" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="3118:3171" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="3177:3255" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="3333:3485" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="3377:3475" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="3781:3875" ph="/** 生成渲染单元数组 ...*/" />
-              <marker date="1505979202000" expanded="true" signature="3904:5000" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="4020:4955" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="4185:4308" ph="{&quot;type&quot;: 'text'...}" />
-              <marker date="1505979202000" expanded="true" signature="4397:4945" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="4533:4709" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="4578:4689" ph="{&quot;type&quot;: 'logic'...}" />
-              <marker date="1505979202000" expanded="true" signature="4715:4861" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="4746:4841" ph="{&quot;expr&quot;: value...}" />
-              <marker date="1505979202000" expanded="true" signature="5006:5087" ph="/** 反转义 ...*/" />
-              <marker date="1505979202000" expanded="true" signature="5118:5256" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="6298:6320" ph="/** 初始化 ...*/" />
-              <marker date="1505979202000" expanded="true" signature="6362:7158" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="6553:7151" ph="{...}" />
-              <marker date="1505979202000" expanded="true" signature="6987:7096" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="313:479" ph="..." />
+              <marker date="1505980392000" expanded="true" signature="323:472" ph="..." />
+              <marker date="1505980392000" expanded="true" signature="698:1075" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="715:1071" ph="{&quot;el&quot;: '.main'...}" />
+              <marker date="1505980392000" expanded="true" signature="752:931" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="792:921" ph="[...]" />
+              <marker date="1505980392000" expanded="true" signature="793:834" ph="{&quot;tag&quot;: 'aa'...}" />
+              <marker date="1505980392000" expanded="true" signature="836:877" ph="{&quot;tag&quot;: 'bb'...}" />
+              <marker date="1505980392000" expanded="true" signature="879:920" ph="{&quot;tag&quot;: 'cc'...}" />
+              <marker date="1505980392000" expanded="true" signature="950:1065" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="996:1055" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="1471:1559" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="1564:1586" ph="/** 初始化 ...*/" />
+              <marker date="1505980392000" expanded="true" signature="1628:2424" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="1819:2417" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="2253:2362" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="2430:2551" ph="/** 模板渲染 ...*/" />
+              <marker date="1505980392000" expanded="true" signature="2604:3770" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="2635:2687" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="2958:3260" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="2999:3079" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="3113:3166" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="3172:3250" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="3328:3480" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="3372:3470" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="3776:3870" ph="/** 生成渲染单元数组 ...*/" />
+              <marker date="1505980392000" expanded="true" signature="3899:4995" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="4015:4950" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="4180:4303" ph="{&quot;type&quot;: 'text'...}" />
+              <marker date="1505980392000" expanded="true" signature="4392:4940" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="4528:4704" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="4573:4684" ph="{&quot;type&quot;: 'logic'...}" />
+              <marker date="1505980392000" expanded="true" signature="4710:4856" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="4741:4836" ph="{&quot;expr&quot;: value...}" />
+              <marker date="1505980392000" expanded="true" signature="5001:5082" ph="/** 反转义 ...*/" />
+              <marker date="1505980392000" expanded="true" signature="5113:5251" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="6293:6315" ph="/** 初始化 ...*/" />
+              <marker date="1505980392000" expanded="true" signature="6357:7153" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="6548:7146" ph="{...}" />
+              <marker date="1505980392000" expanded="true" signature="6982:7091" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

@@ -6,7 +6,7 @@ index.html
     <div>
         {{ list.map(function(item,index){ }}
             <div @click="click({{index}},{{item.tag}})">{{item.tag}}</div>
-        {{ }) }}
+        {{ }}) }}
     </div>
 </div>
 
