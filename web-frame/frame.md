@@ -117,7 +117,7 @@ $(function () {
             var index = str.indexOf(openTag);
             index = index === -1 ? str.length : index;
             value = str.slice(0, index);
-            ret.push({//抽取{{前面的静态内容
+            ret.push({
                 expr: value.trim().replace(/[\r\n]/g, ""),//去除换行符
                 type: 'text'
             });
