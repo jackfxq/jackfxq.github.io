@@ -168,8 +168,12 @@ $(function () {
 主要是_render函数，我们可以看看运行_render后的效果：
 ![](https://github.com/jackfxq/blog/raw/master/images/render-2.png)<br>
 这个是怎么实现的呢，我们具体看看_render的代码，_render其实就是完成两件事情：<br>
+
+<p class="tip">
 1.根据type将相应的字符串push到数组中；<br>
 2.根据传入的data生成函数的形参和实参，然后使用new Function（）生成渲染函数，最后将@click编译成data-on属性，data-on的属性用于给DOM绑定事件，如下图：<br>
+</p>
+
 ![](https://github.com/jackfxq/blog/raw/master/images/render-3.png)<br>
 ![](https://github.com/jackfxq/blog/raw/master/images/render-4.png)<br>
 ### 事件绑定
@@ -200,9 +204,9 @@ $(function () {
 整个init做了两个事件：<br>
 
 <p class="tip">
-1.视图渲染，将前面编译生成的字符插入相应的位置；
+1.视图渲染，将前面编译生成的字符插入相应的位置；<br>
 2.遍历含有data-on的DOM，根据data-on属性，利用正则将事件类型`eventType`，在前面定义的`methods`（就是new Render()里面定义的methods）中的属性method以及里面的参数`params`提取出来,可以看一下本demo提取的`eventType`,`methods`,`params`分别是什么<br>
-<p class="tip">
+</p>
 
 ![](https://github.com/jackfxq/blog/raw/master/images/render-5.png)<br>
 最后用on对DOM进行事件绑定。
