@@ -1,0 +1,19 @@
+{
+  "name": "vue-blog",
+  "version": "1.0.0",
+  "description": "###vue整体框架和流程分析 ###vue源码中关于数组的处理 ## 前端框架 ###zepto+简易前端模板搭建活动页面开发框架 ###基于zepto的组件系统搭建 ## webpack ###webpack打包后的js文件分析 ## 设计模式 ###观察者模式",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jackfxq@github.com/jackfxq/jackfxq.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackfxq/jackfxq.github.io/issues"
+  },
+  "homepage": "https://github.com/jackfxq/jackfxq.github.io#readme"
+}
