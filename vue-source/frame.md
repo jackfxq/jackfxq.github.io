@@ -74,7 +74,7 @@ vm._watcher=new Watcher(vm,updateComponent,noop)
 ![](https://github.com/jackfxq/blog/raw/master/images/19.png)<br>
 上图可以看出，set最后调用了dep.notify，进入notify
 ![](https://github.com/jackfxq/blog/raw/master/images/20.png)<br>
-如上图，notify主要将收集的依赖，也就是收集的所有watcher，调用所有watcher的update方法，我们看看watcher的updata方法干了啥
+如上图，notify主要将收集的依赖，也就是收集的所有watcher，调用所有watcher的update方法，我们看看watcher的updata方法干了啥<br>
 ![](https://github.com/jackfxq/blog/raw/master/images/21.png)<br>
 这里就是调用了queueWatcher,进入queueWatcher
 ![](https://github.com/jackfxq/blog/raw/master/images/22.png)<br>
