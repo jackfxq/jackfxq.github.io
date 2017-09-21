@@ -1,17 +1,21 @@
 在阅读vue的教程中关于列表渲染的内容的时候对数组的更新做了特殊的说明：<br>
->由于 JavaScript 的限制， Vue 不能检测以下变动的数组：
->1.当你利用索引直接设置一个项时，例如： vm.items[indexOfItem] = newValue,
->2.当你修改数组的长度时，例如： vm.items.length = newLength
+
+<p class="tip">
+由于 JavaScript 的限制， Vue 不能检测以下变动的数组：<br>
+1.当你利用索引直接设置一个项时，例如： vm.items[indexOfItem] = newValue,<br>
+2.当你修改数组的长度时，例如： vm.items.length = newLength<br>
+</p>
+
 
 只能通过如下七个变异的方法才能触发视图更新
 
->push()
-pop()
-shift()
-unshift()
-splice()
-sort()
-reverse()
+>push()<br>
+pop()<br>
+shift()<br>
+unshift()<br>
+splice()<br>
+sort()<br>
+reverse()<br>
 
 初看这部分时就非常好奇对于数组vue是怎么处理的，于是查看了一下vue的源码关于这部分的内容:
 ```javascript
